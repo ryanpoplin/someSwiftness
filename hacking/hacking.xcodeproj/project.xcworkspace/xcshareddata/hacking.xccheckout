@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>216F38A4-712F-4EBC-BB88-656D8B49ABF6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>hacking</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5A8397E85A111A84BF450AED4D85EF626C9C54DF</key>
+		<string>github.com:ryanpoplin/someSwiftness.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>hacking/hacking.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5A8397E85A111A84BF450AED4D85EF626C9C54DF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:ryanpoplin/someSwiftness.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5A8397E85A111A84BF450AED4D85EF626C9C54DF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5A8397E85A111A84BF450AED4D85EF626C9C54DF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>hacking-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

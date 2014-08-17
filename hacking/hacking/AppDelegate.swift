@@ -16,6 +16,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     // add code that makes the screen white lol...
     
     func application(application: UIApplication!, didFinishLaunchingWithOptions launchOptions: NSDictionary!) -> Bool {
+        
+        // figure this out...
+        window = UIWindow(frame: UIScreen.mainScreen().bounds)
+        window!.backgroundColor = UIColor.whiteColor()
+        window!.rootViewController = ViewController()
+        window!.makeKeyAndVisible()
+        
         // Override point for customization after application launch.
         return true
     }

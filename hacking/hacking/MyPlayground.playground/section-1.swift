@@ -85,4 +85,15 @@ for currentIndex in 1...5 {
 for currentIndex in 1..<5 {
     println("Index value is \(currentIndex)")
 }
-
+11/12
+12/11
+(12/11)+(11/12)-(12*24)+287
+2/1==4/2
+var x = 2
+x & (x-1)
+x | (x-1)
+var y = 24
+y & (y-1)
+y | (y-1)
+// - is the same as ¬
+-x & (x + 1)
